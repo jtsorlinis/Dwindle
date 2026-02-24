@@ -1,0 +1,6214 @@
+{
+  "generatedAt": "2026-02-24T00:08:05.814Z",
+  "startDate": "2026-02-24",
+  "days": 365,
+  "dictionarySize": 74,
+  "solvableSevenLetterWords": 7,
+  "puzzles": [
+    {
+      "date": "2026-02-24",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "LEANT",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "LEANT",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-02-25",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "ANGEL",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "ANGEL",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-02-26",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "NEAR",
+        "ARE"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "NEAR",
+        "three": "ARE"
+      }
+    },
+    {
+      "date": "2026-02-27",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "LATER",
+        "LATE",
+        "LET"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "LATER",
+        "four": "LATE",
+        "three": "LET"
+      }
+    },
+    {
+      "date": "2026-02-28",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "LEANT",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "LEANT",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-03-01",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "STARE",
+        "RATE",
+        "EAT"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "STARE",
+        "four": "RATE",
+        "three": "EAT"
+      }
+    },
+    {
+      "date": "2026-03-02",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "RAN"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2026-03-03",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "PANEL",
+        "PANE",
+        "PAN"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "PANEL",
+        "four": "PANE",
+        "three": "PAN"
+      }
+    },
+    {
+      "date": "2026-03-04",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "PANEL",
+        "PANE",
+        "PEN"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "PANEL",
+        "four": "PANE",
+        "three": "PEN"
+      }
+    },
+    {
+      "date": "2026-03-05",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "LEANT",
+        "TALE",
+        "TEA"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "LEANT",
+        "four": "TALE",
+        "three": "TEA"
+      }
+    },
+    {
+      "date": "2026-03-06",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "STALE",
+        "SEAL",
+        "SEA"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "STALE",
+        "four": "SEAL",
+        "three": "SEA"
+      }
+    },
+    {
+      "date": "2026-03-07",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "RAN"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2026-03-08",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "LATER",
+        "LATE",
+        "TEA"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "LATER",
+        "four": "LATE",
+        "three": "TEA"
+      }
+    },
+    {
+      "date": "2026-03-09",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "RATES",
+        "STAR",
+        "RAT"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "RATES",
+        "four": "STAR",
+        "three": "RAT"
+      }
+    },
+    {
+      "date": "2026-03-10",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "ANGEL",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "ANGEL",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-03-11",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "STARE",
+        "STAR",
+        "ART"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "STARE",
+        "four": "STAR",
+        "three": "ART"
+      }
+    },
+    {
+      "date": "2026-03-12",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "STARE",
+        "RATE",
+        "RAT"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "STARE",
+        "four": "RATE",
+        "three": "RAT"
+      }
+    },
+    {
+      "date": "2026-03-13",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "STALE",
+        "SEAL",
+        "SEA"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "STALE",
+        "four": "SEAL",
+        "three": "SEA"
+      }
+    },
+    {
+      "date": "2026-03-14",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "STEAL",
+        "SEAL",
+        "SEA"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "STEAL",
+        "four": "SEAL",
+        "three": "SEA"
+      }
+    },
+    {
+      "date": "2026-03-15",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "RATES",
+        "STAR",
+        "TAR"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "RATES",
+        "four": "STAR",
+        "three": "TAR"
+      }
+    },
+    {
+      "date": "2026-03-16",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "PLANE",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "PLANE",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-03-17",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "ANGEL",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "ANGEL",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-03-18",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "RATES",
+        "RATE",
+        "TEA"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "RATES",
+        "four": "RATE",
+        "three": "TEA"
+      }
+    },
+    {
+      "date": "2026-03-19",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "RATES",
+        "TEAR",
+        "RAT"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "RATES",
+        "four": "TEAR",
+        "three": "RAT"
+      }
+    },
+    {
+      "date": "2026-03-20",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "RATES",
+        "RATE",
+        "ARE"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "RATES",
+        "four": "RATE",
+        "three": "ARE"
+      }
+    },
+    {
+      "date": "2026-03-21",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "STARE",
+        "TEAR",
+        "TEA"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "STARE",
+        "four": "TEAR",
+        "three": "TEA"
+      }
+    },
+    {
+      "date": "2026-03-22",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "RATES",
+        "TEAR",
+        "EAR"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "RATES",
+        "four": "TEAR",
+        "three": "EAR"
+      }
+    },
+    {
+      "date": "2026-03-23",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "LEANT",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "LEANT",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-03-24",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "RAN"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2026-03-25",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "STEAL",
+        "SEAL",
+        "SEA"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "STEAL",
+        "four": "SEAL",
+        "three": "SEA"
+      }
+    },
+    {
+      "date": "2026-03-26",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "LATER",
+        "LATE",
+        "ALE"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "LATER",
+        "four": "LATE",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-03-27",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "ANGLE",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "ANGLE",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-03-28",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "EARN",
+        "RAN"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "EARN",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2026-03-29",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "LEANT",
+        "TALE",
+        "TEA"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "LEANT",
+        "four": "TALE",
+        "three": "TEA"
+      }
+    },
+    {
+      "date": "2026-03-30",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "TEAR",
+        "ERA"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "TEAR",
+        "three": "ERA"
+      }
+    },
+    {
+      "date": "2026-03-31",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "ANGEL",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "ANGEL",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-04-01",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "EARN",
+        "RAN"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "EARN",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2026-04-02",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "LEANT",
+        "LATE",
+        "TEA"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "LEANT",
+        "four": "LATE",
+        "three": "TEA"
+      }
+    },
+    {
+      "date": "2026-04-03",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "RAN"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2026-04-04",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "PLANE",
+        "PANE",
+        "APE"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "PLANE",
+        "four": "PANE",
+        "three": "APE"
+      }
+    },
+    {
+      "date": "2026-04-05",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "RAN"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2026-04-06",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "RATE",
+        "EAT"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "RATE",
+        "three": "EAT"
+      }
+    },
+    {
+      "date": "2026-04-07",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "LEANT",
+        "ANTE",
+        "EAT"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "LEANT",
+        "four": "ANTE",
+        "three": "EAT"
+      }
+    },
+    {
+      "date": "2026-04-08",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "STARE",
+        "TEAR",
+        "EAR"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "STARE",
+        "four": "TEAR",
+        "three": "EAR"
+      }
+    },
+    {
+      "date": "2026-04-09",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "EARN",
+        "EAR"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "EARN",
+        "three": "EAR"
+      }
+    },
+    {
+      "date": "2026-04-10",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "TEAR",
+        "ARE"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "TEAR",
+        "three": "ARE"
+      }
+    },
+    {
+      "date": "2026-04-11",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "LEANT",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "LEANT",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-04-12",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "RAN"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2026-04-13",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "ANGEL",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "ANGEL",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-04-14",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "RATE",
+        "ART"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "RATE",
+        "three": "ART"
+      }
+    },
+    {
+      "date": "2026-04-15",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "ALERT",
+        "TEAR",
+        "TAR"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "ALERT",
+        "four": "TEAR",
+        "three": "TAR"
+      }
+    },
+    {
+      "date": "2026-04-16",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "TEAR",
+        "ARE"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "TEAR",
+        "three": "ARE"
+      }
+    },
+    {
+      "date": "2026-04-17",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "STARE",
+        "TEAR",
+        "EAR"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "STARE",
+        "four": "TEAR",
+        "three": "EAR"
+      }
+    },
+    {
+      "date": "2026-04-18",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "RAN"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2026-04-19",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "RAN"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2026-04-20",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "PANEL",
+        "PLAN",
+        "PAN"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "PANEL",
+        "four": "PLAN",
+        "three": "PAN"
+      }
+    },
+    {
+      "date": "2026-04-21",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "STARE",
+        "STAR",
+        "ART"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "STARE",
+        "four": "STAR",
+        "three": "ART"
+      }
+    },
+    {
+      "date": "2026-04-22",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "GATE",
+        "ATE"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "GATE",
+        "three": "ATE"
+      }
+    },
+    {
+      "date": "2026-04-23",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "LATER",
+        "LATE",
+        "TEA"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "LATER",
+        "four": "LATE",
+        "three": "TEA"
+      }
+    },
+    {
+      "date": "2026-04-24",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "ALERT",
+        "RATE",
+        "TAR"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "ALERT",
+        "four": "RATE",
+        "three": "TAR"
+      }
+    },
+    {
+      "date": "2026-04-25",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "RAN"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2026-04-26",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "RATE",
+        "RAT"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "RATE",
+        "three": "RAT"
+      }
+    },
+    {
+      "date": "2026-04-27",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "RATE",
+        "ATE"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "RATE",
+        "three": "ATE"
+      }
+    },
+    {
+      "date": "2026-04-28",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "ANGLE",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "ANGLE",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-04-29",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "STARE",
+        "RATE",
+        "ART"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "STARE",
+        "four": "RATE",
+        "three": "ART"
+      }
+    },
+    {
+      "date": "2026-04-30",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "PANEL",
+        "PLAN",
+        "PAN"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "PANEL",
+        "four": "PLAN",
+        "three": "PAN"
+      }
+    },
+    {
+      "date": "2026-05-01",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "RAN"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2026-05-02",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "LEANT",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "LEANT",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-05-03",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "LATER",
+        "TEAR",
+        "TAR"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "LATER",
+        "four": "TEAR",
+        "three": "TAR"
+      }
+    },
+    {
+      "date": "2026-05-04",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "STALE",
+        "LATE",
+        "TEA"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "STALE",
+        "four": "LATE",
+        "three": "TEA"
+      }
+    },
+    {
+      "date": "2026-05-05",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "AIR"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "AIR"
+      }
+    },
+    {
+      "date": "2026-05-06",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "PLANE",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "PLANE",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-05-07",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "RATE",
+        "EAT"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "RATE",
+        "three": "EAT"
+      }
+    },
+    {
+      "date": "2026-05-08",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "RATES",
+        "STAR",
+        "RAT"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "RATES",
+        "four": "STAR",
+        "three": "RAT"
+      }
+    },
+    {
+      "date": "2026-05-09",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "NEAR",
+        "ERA"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "NEAR",
+        "three": "ERA"
+      }
+    },
+    {
+      "date": "2026-05-10",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "AIR"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "AIR"
+      }
+    },
+    {
+      "date": "2026-05-11",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "AIR"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "AIR"
+      }
+    },
+    {
+      "date": "2026-05-12",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "TEAR",
+        "RAT"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "TEAR",
+        "three": "RAT"
+      }
+    },
+    {
+      "date": "2026-05-13",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "LATER",
+        "RATE",
+        "ART"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "LATER",
+        "four": "RATE",
+        "three": "ART"
+      }
+    },
+    {
+      "date": "2026-05-14",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "LEANT",
+        "ANTE",
+        "EAT"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "LEANT",
+        "four": "ANTE",
+        "three": "EAT"
+      }
+    },
+    {
+      "date": "2026-05-15",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "AIR"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "AIR"
+      }
+    },
+    {
+      "date": "2026-05-16",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "RATES",
+        "STAR",
+        "ART"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "RATES",
+        "four": "STAR",
+        "three": "ART"
+      }
+    },
+    {
+      "date": "2026-05-17",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "LEANT",
+        "ANTE",
+        "NET"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "LEANT",
+        "four": "ANTE",
+        "three": "NET"
+      }
+    },
+    {
+      "date": "2026-05-18",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "RATE",
+        "EAT"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "RATE",
+        "three": "EAT"
+      }
+    },
+    {
+      "date": "2026-05-19",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "TEAR",
+        "RAT"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "TEAR",
+        "three": "RAT"
+      }
+    },
+    {
+      "date": "2026-05-20",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "ANGLE",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "ANGLE",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-05-21",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "STARE",
+        "TEAR",
+        "RAT"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "STARE",
+        "four": "TEAR",
+        "three": "RAT"
+      }
+    },
+    {
+      "date": "2026-05-22",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "GATE",
+        "EAT"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "GATE",
+        "three": "EAT"
+      }
+    },
+    {
+      "date": "2026-05-23",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "AIR"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "AIR"
+      }
+    },
+    {
+      "date": "2026-05-24",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "LEANT",
+        "ANTE",
+        "ATE"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "LEANT",
+        "four": "ANTE",
+        "three": "ATE"
+      }
+    },
+    {
+      "date": "2026-05-25",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "RATES",
+        "RATE",
+        "ART"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "RATES",
+        "four": "RATE",
+        "three": "ART"
+      }
+    },
+    {
+      "date": "2026-05-26",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "RATES",
+        "TEAR",
+        "EAR"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "RATES",
+        "four": "TEAR",
+        "three": "EAR"
+      }
+    },
+    {
+      "date": "2026-05-27",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "RAN"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2026-05-28",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "ANGLE",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "ANGLE",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-05-29",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "NEAR",
+        "RAN"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "NEAR",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2026-05-30",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "RATE",
+        "TAR"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "RATE",
+        "three": "TAR"
+      }
+    },
+    {
+      "date": "2026-05-31",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "STARE",
+        "STAR",
+        "TAR"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "STARE",
+        "four": "STAR",
+        "three": "TAR"
+      }
+    },
+    {
+      "date": "2026-06-01",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "PANEL",
+        "PANE",
+        "PAN"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "PANEL",
+        "four": "PANE",
+        "three": "PAN"
+      }
+    },
+    {
+      "date": "2026-06-02",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "NEAR",
+        "ERA"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "NEAR",
+        "three": "ERA"
+      }
+    },
+    {
+      "date": "2026-06-03",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "RATES",
+        "STAR",
+        "SAT"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "RATES",
+        "four": "STAR",
+        "three": "SAT"
+      }
+    },
+    {
+      "date": "2026-06-04",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "GATE",
+        "EAT"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "GATE",
+        "three": "EAT"
+      }
+    },
+    {
+      "date": "2026-06-05",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "RATES",
+        "STAR",
+        "SAT"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "RATES",
+        "four": "STAR",
+        "three": "SAT"
+      }
+    },
+    {
+      "date": "2026-06-06",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "NEAR",
+        "ARE"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "NEAR",
+        "three": "ARE"
+      }
+    },
+    {
+      "date": "2026-06-07",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "LEANT",
+        "ANTE",
+        "NET"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "LEANT",
+        "four": "ANTE",
+        "three": "NET"
+      }
+    },
+    {
+      "date": "2026-06-08",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "ANGLE",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "ANGLE",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-06-09",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "EARN",
+        "ERA"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "EARN",
+        "three": "ERA"
+      }
+    },
+    {
+      "date": "2026-06-10",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "TEAR",
+        "ART"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "TEAR",
+        "three": "ART"
+      }
+    },
+    {
+      "date": "2026-06-11",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "STARE",
+        "RATE",
+        "ATE"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "STARE",
+        "four": "RATE",
+        "three": "ATE"
+      }
+    },
+    {
+      "date": "2026-06-12",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "EARN",
+        "RAN"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "EARN",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2026-06-13",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "LATER",
+        "TALE",
+        "ATE"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "LATER",
+        "four": "TALE",
+        "three": "ATE"
+      }
+    },
+    {
+      "date": "2026-06-14",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "ALERT",
+        "TEAR",
+        "TEA"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "ALERT",
+        "four": "TEAR",
+        "three": "TEA"
+      }
+    },
+    {
+      "date": "2026-06-15",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "STARE",
+        "RATE",
+        "TEA"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "STARE",
+        "four": "RATE",
+        "three": "TEA"
+      }
+    },
+    {
+      "date": "2026-06-16",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "ANGEL",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "ANGEL",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-06-17",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "RAN"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2026-06-18",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "RAN"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2026-06-19",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "TEAR",
+        "EAR"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "TEAR",
+        "three": "EAR"
+      }
+    },
+    {
+      "date": "2026-06-20",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "STARE",
+        "STAR",
+        "SAT"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "STARE",
+        "four": "STAR",
+        "three": "SAT"
+      }
+    },
+    {
+      "date": "2026-06-21",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "LEANT",
+        "ANTE",
+        "TEA"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "LEANT",
+        "four": "ANTE",
+        "three": "TEA"
+      }
+    },
+    {
+      "date": "2026-06-22",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "LEANT",
+        "TALE",
+        "EAT"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "LEANT",
+        "four": "TALE",
+        "three": "EAT"
+      }
+    },
+    {
+      "date": "2026-06-23",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "LEANT",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "LEANT",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-06-24",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "RAN"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2026-06-25",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "AIR"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "AIR"
+      }
+    },
+    {
+      "date": "2026-06-26",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "GATE",
+        "EAT"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "GATE",
+        "three": "EAT"
+      }
+    },
+    {
+      "date": "2026-06-27",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "LEANT",
+        "LATE",
+        "ATE"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "LEANT",
+        "four": "LATE",
+        "three": "ATE"
+      }
+    },
+    {
+      "date": "2026-06-28",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "ANGEL",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "ANGEL",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-06-29",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "RAN"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2026-06-30",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "STALE",
+        "TALE",
+        "LET"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "STALE",
+        "four": "TALE",
+        "three": "LET"
+      }
+    },
+    {
+      "date": "2026-07-01",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "RAN"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2026-07-02",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "PLANE",
+        "PANE",
+        "APE"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "PLANE",
+        "four": "PANE",
+        "three": "APE"
+      }
+    },
+    {
+      "date": "2026-07-03",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "ALERT",
+        "TEAR",
+        "EAR"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "ALERT",
+        "four": "TEAR",
+        "three": "EAR"
+      }
+    },
+    {
+      "date": "2026-07-04",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "ANGEL",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "ANGEL",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-07-05",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "LEANT",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "LEANT",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-07-06",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "TEAR",
+        "ART"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "TEAR",
+        "three": "ART"
+      }
+    },
+    {
+      "date": "2026-07-07",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "RATE",
+        "TAR"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "RATE",
+        "three": "TAR"
+      }
+    },
+    {
+      "date": "2026-07-08",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "LEANT",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "LEANT",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-07-09",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "NEAR",
+        "RAN"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "NEAR",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2026-07-10",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "RATES",
+        "STAR",
+        "RAT"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "RATES",
+        "four": "STAR",
+        "three": "RAT"
+      }
+    },
+    {
+      "date": "2026-07-11",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "LATER",
+        "RATE",
+        "ERA"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "LATER",
+        "four": "RATE",
+        "three": "ERA"
+      }
+    },
+    {
+      "date": "2026-07-12",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "AIR"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "AIR"
+      }
+    },
+    {
+      "date": "2026-07-13",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "PLANE",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "PLANE",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-07-14",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "LEANT",
+        "ANTE",
+        "ANT"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "LEANT",
+        "four": "ANTE",
+        "three": "ANT"
+      }
+    },
+    {
+      "date": "2026-07-15",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "RATES",
+        "RATE",
+        "ATE"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "RATES",
+        "four": "RATE",
+        "three": "ATE"
+      }
+    },
+    {
+      "date": "2026-07-16",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "STARE",
+        "TEAR",
+        "EAR"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "STARE",
+        "four": "TEAR",
+        "three": "EAR"
+      }
+    },
+    {
+      "date": "2026-07-17",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "RATES",
+        "RATE",
+        "ERA"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "RATES",
+        "four": "RATE",
+        "three": "ERA"
+      }
+    },
+    {
+      "date": "2026-07-18",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "PLANE",
+        "PANE",
+        "PEN"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "PLANE",
+        "four": "PANE",
+        "three": "PEN"
+      }
+    },
+    {
+      "date": "2026-07-19",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "STARE",
+        "TEAR",
+        "TEA"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "STARE",
+        "four": "TEAR",
+        "three": "TEA"
+      }
+    },
+    {
+      "date": "2026-07-20",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "STEAL",
+        "TALE",
+        "TEA"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "STEAL",
+        "four": "TALE",
+        "three": "TEA"
+      }
+    },
+    {
+      "date": "2026-07-21",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "RATES",
+        "TEAR",
+        "EAT"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "RATES",
+        "four": "TEAR",
+        "three": "EAT"
+      }
+    },
+    {
+      "date": "2026-07-22",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "PLANE",
+        "PLAN",
+        "PAN"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "PLANE",
+        "four": "PLAN",
+        "three": "PAN"
+      }
+    },
+    {
+      "date": "2026-07-23",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "PANEL",
+        "PANE",
+        "PEN"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "PANEL",
+        "four": "PANE",
+        "three": "PEN"
+      }
+    },
+    {
+      "date": "2026-07-24",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "EARN",
+        "ARE"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "EARN",
+        "three": "ARE"
+      }
+    },
+    {
+      "date": "2026-07-25",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "RATES",
+        "STAR",
+        "TAR"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "RATES",
+        "four": "STAR",
+        "three": "TAR"
+      }
+    },
+    {
+      "date": "2026-07-26",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "PLANE",
+        "PANE",
+        "PAN"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "PLANE",
+        "four": "PANE",
+        "three": "PAN"
+      }
+    },
+    {
+      "date": "2026-07-27",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "AIR"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "AIR"
+      }
+    },
+    {
+      "date": "2026-07-28",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "RATE",
+        "EAR"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "RATE",
+        "three": "EAR"
+      }
+    },
+    {
+      "date": "2026-07-29",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "GATE",
+        "EAT"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "GATE",
+        "three": "EAT"
+      }
+    },
+    {
+      "date": "2026-07-30",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "ANGLE",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "ANGLE",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-07-31",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "GATE",
+        "ATE"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "GATE",
+        "three": "ATE"
+      }
+    },
+    {
+      "date": "2026-08-01",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "PANEL",
+        "PLAN",
+        "PAN"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "PANEL",
+        "four": "PLAN",
+        "three": "PAN"
+      }
+    },
+    {
+      "date": "2026-08-02",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "ANGLE",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "ANGLE",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-08-03",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "NEAR",
+        "RAN"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "NEAR",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2026-08-04",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "ANGLE",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "ANGLE",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-08-05",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "STALE",
+        "LATE",
+        "TEA"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "STALE",
+        "four": "LATE",
+        "three": "TEA"
+      }
+    },
+    {
+      "date": "2026-08-06",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "LATER",
+        "LATE",
+        "ALE"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "LATER",
+        "four": "LATE",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-08-07",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "GATE",
+        "EAT"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "GATE",
+        "three": "EAT"
+      }
+    },
+    {
+      "date": "2026-08-08",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "GATE",
+        "EAT"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "GATE",
+        "three": "EAT"
+      }
+    },
+    {
+      "date": "2026-08-09",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "STARE",
+        "TEAR",
+        "EAT"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "STARE",
+        "four": "TEAR",
+        "three": "EAT"
+      }
+    },
+    {
+      "date": "2026-08-10",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "LATER",
+        "RATE",
+        "ERA"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "LATER",
+        "four": "RATE",
+        "three": "ERA"
+      }
+    },
+    {
+      "date": "2026-08-11",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "TEAR",
+        "TEA"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "TEAR",
+        "three": "TEA"
+      }
+    },
+    {
+      "date": "2026-08-12",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "PANEL",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "PANEL",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-08-13",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "LATER",
+        "TEAR",
+        "TEA"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "LATER",
+        "four": "TEAR",
+        "three": "TEA"
+      }
+    },
+    {
+      "date": "2026-08-14",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "RAN"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2026-08-15",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "LEANT",
+        "ANTE",
+        "TEA"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "LEANT",
+        "four": "ANTE",
+        "three": "TEA"
+      }
+    },
+    {
+      "date": "2026-08-16",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "RATES",
+        "RATE",
+        "ART"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "RATES",
+        "four": "RATE",
+        "three": "ART"
+      }
+    },
+    {
+      "date": "2026-08-17",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "ANGEL",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "ANGEL",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-08-18",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "PLANE",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "PLANE",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-08-19",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "STARE",
+        "STAR",
+        "RAT"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "STARE",
+        "four": "STAR",
+        "three": "RAT"
+      }
+    },
+    {
+      "date": "2026-08-20",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "ANGLE",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "ANGLE",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-08-21",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "GATE",
+        "TEA"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "GATE",
+        "three": "TEA"
+      }
+    },
+    {
+      "date": "2026-08-22",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "RATES",
+        "RATE",
+        "EAR"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "RATES",
+        "four": "RATE",
+        "three": "EAR"
+      }
+    },
+    {
+      "date": "2026-08-23",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "RATES",
+        "STAR",
+        "TAR"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "RATES",
+        "four": "STAR",
+        "three": "TAR"
+      }
+    },
+    {
+      "date": "2026-08-24",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "GATE",
+        "ATE"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "GATE",
+        "three": "ATE"
+      }
+    },
+    {
+      "date": "2026-08-25",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "STARE",
+        "STAR",
+        "TAR"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "STARE",
+        "four": "STAR",
+        "three": "TAR"
+      }
+    },
+    {
+      "date": "2026-08-26",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "NEAR",
+        "ERA"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "NEAR",
+        "three": "ERA"
+      }
+    },
+    {
+      "date": "2026-08-27",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "RATES",
+        "STAR",
+        "ART"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "RATES",
+        "four": "STAR",
+        "three": "ART"
+      }
+    },
+    {
+      "date": "2026-08-28",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "STARE",
+        "RATE",
+        "ATE"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "STARE",
+        "four": "RATE",
+        "three": "ATE"
+      }
+    },
+    {
+      "date": "2026-08-29",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "ANGEL",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "ANGEL",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-08-30",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "TEAR",
+        "ERA"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "TEAR",
+        "three": "ERA"
+      }
+    },
+    {
+      "date": "2026-08-31",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "LATER",
+        "TALE",
+        "EAT"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "LATER",
+        "four": "TALE",
+        "three": "EAT"
+      }
+    },
+    {
+      "date": "2026-09-01",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "STARE",
+        "STAR",
+        "RAT"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "STARE",
+        "four": "STAR",
+        "three": "RAT"
+      }
+    },
+    {
+      "date": "2026-09-02",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "PANEL",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "PANEL",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-09-03",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "NEAR",
+        "EAR"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "NEAR",
+        "three": "EAR"
+      }
+    },
+    {
+      "date": "2026-09-04",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "LEANT",
+        "ANTE",
+        "NET"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "LEANT",
+        "four": "ANTE",
+        "three": "NET"
+      }
+    },
+    {
+      "date": "2026-09-05",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "PANEL",
+        "PANE",
+        "APE"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "PANEL",
+        "four": "PANE",
+        "three": "APE"
+      }
+    },
+    {
+      "date": "2026-09-06",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "EARN",
+        "ARE"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "EARN",
+        "three": "ARE"
+      }
+    },
+    {
+      "date": "2026-09-07",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "PANEL",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "PANEL",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-09-08",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "RATE",
+        "ATE"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "RATE",
+        "three": "ATE"
+      }
+    },
+    {
+      "date": "2026-09-09",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "PLANE",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "PLANE",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-09-10",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "PANEL",
+        "PLAN",
+        "PAN"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "PANEL",
+        "four": "PLAN",
+        "three": "PAN"
+      }
+    },
+    {
+      "date": "2026-09-11",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "TEAR",
+        "ARE"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "TEAR",
+        "three": "ARE"
+      }
+    },
+    {
+      "date": "2026-09-12",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "STARE",
+        "RATE",
+        "TAR"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "STARE",
+        "four": "RATE",
+        "three": "TAR"
+      }
+    },
+    {
+      "date": "2026-09-13",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "RAN"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2026-09-14",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "RAN"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2026-09-15",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "RATE",
+        "ART"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "RATE",
+        "three": "ART"
+      }
+    },
+    {
+      "date": "2026-09-16",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "EARN",
+        "RAN"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "EARN",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2026-09-17",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "ANGEL",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "ANGEL",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-09-18",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "PANEL",
+        "PLAN",
+        "PAN"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "PANEL",
+        "four": "PLAN",
+        "three": "PAN"
+      }
+    },
+    {
+      "date": "2026-09-19",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "AIR"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "AIR"
+      }
+    },
+    {
+      "date": "2026-09-20",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "NEAR",
+        "ARE"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "NEAR",
+        "three": "ARE"
+      }
+    },
+    {
+      "date": "2026-09-21",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "LEANT",
+        "TALE",
+        "TEA"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "LEANT",
+        "four": "TALE",
+        "three": "TEA"
+      }
+    },
+    {
+      "date": "2026-09-22",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "STARE",
+        "STAR",
+        "TAR"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "STARE",
+        "four": "STAR",
+        "three": "TAR"
+      }
+    },
+    {
+      "date": "2026-09-23",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "RAN"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2026-09-24",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "AIR"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "AIR"
+      }
+    },
+    {
+      "date": "2026-09-25",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "TEAR",
+        "ERA"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "TEAR",
+        "three": "ERA"
+      }
+    },
+    {
+      "date": "2026-09-26",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "RATES",
+        "TEAR",
+        "ATE"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "RATES",
+        "four": "TEAR",
+        "three": "ATE"
+      }
+    },
+    {
+      "date": "2026-09-27",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "ANGLE",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "ANGLE",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-09-28",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "NEAR",
+        "ERA"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "NEAR",
+        "three": "ERA"
+      }
+    },
+    {
+      "date": "2026-09-29",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "PLANE",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "PLANE",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-09-30",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "RATES",
+        "RATE",
+        "TAR"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "RATES",
+        "four": "RATE",
+        "three": "TAR"
+      }
+    },
+    {
+      "date": "2026-10-01",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "STARE",
+        "TEAR",
+        "RAT"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "STARE",
+        "four": "TEAR",
+        "three": "RAT"
+      }
+    },
+    {
+      "date": "2026-10-02",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "AIR"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "AIR"
+      }
+    },
+    {
+      "date": "2026-10-03",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "STARE",
+        "STAR",
+        "SAT"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "STARE",
+        "four": "STAR",
+        "three": "SAT"
+      }
+    },
+    {
+      "date": "2026-10-04",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "STALE",
+        "LATE",
+        "TEA"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "STALE",
+        "four": "LATE",
+        "three": "TEA"
+      }
+    },
+    {
+      "date": "2026-10-05",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "STARE",
+        "RATE",
+        "EAR"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "STARE",
+        "four": "RATE",
+        "three": "EAR"
+      }
+    },
+    {
+      "date": "2026-10-06",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "RATES",
+        "STAR",
+        "RAT"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "RATES",
+        "four": "STAR",
+        "three": "RAT"
+      }
+    },
+    {
+      "date": "2026-10-07",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "TEAR",
+        "ART"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "TEAR",
+        "three": "ART"
+      }
+    },
+    {
+      "date": "2026-10-08",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "NEAR",
+        "EAR"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "NEAR",
+        "three": "EAR"
+      }
+    },
+    {
+      "date": "2026-10-09",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "EARN",
+        "EAR"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "EARN",
+        "three": "EAR"
+      }
+    },
+    {
+      "date": "2026-10-10",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "STARE",
+        "STAR",
+        "SAT"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "STARE",
+        "four": "STAR",
+        "three": "SAT"
+      }
+    },
+    {
+      "date": "2026-10-11",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "STARE",
+        "RATE",
+        "ARE"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "STARE",
+        "four": "RATE",
+        "three": "ARE"
+      }
+    },
+    {
+      "date": "2026-10-12",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "ANGEL",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "ANGEL",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-10-13",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "EARN",
+        "EAR"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "EARN",
+        "three": "EAR"
+      }
+    },
+    {
+      "date": "2026-10-14",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "AIR"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "AIR"
+      }
+    },
+    {
+      "date": "2026-10-15",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "EARN",
+        "EAR"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "EARN",
+        "three": "EAR"
+      }
+    },
+    {
+      "date": "2026-10-16",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "NEAR",
+        "ERA"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "NEAR",
+        "three": "ERA"
+      }
+    },
+    {
+      "date": "2026-10-17",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "TEAR",
+        "EAR"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "TEAR",
+        "three": "EAR"
+      }
+    },
+    {
+      "date": "2026-10-18",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "RAN"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2026-10-19",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "ANGEL",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "ANGEL",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-10-20",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "ANGEL",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "ANGEL",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-10-21",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "RATES",
+        "TEAR",
+        "RAT"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "RATES",
+        "four": "TEAR",
+        "three": "RAT"
+      }
+    },
+    {
+      "date": "2026-10-22",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "RAN"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2026-10-23",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "LEANT",
+        "TALE",
+        "TEA"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "LEANT",
+        "four": "TALE",
+        "three": "TEA"
+      }
+    },
+    {
+      "date": "2026-10-24",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "STARE",
+        "STAR",
+        "TAR"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "STARE",
+        "four": "STAR",
+        "three": "TAR"
+      }
+    },
+    {
+      "date": "2026-10-25",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "NEAR",
+        "EAR"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "NEAR",
+        "three": "EAR"
+      }
+    },
+    {
+      "date": "2026-10-26",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "AIR"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "AIR"
+      }
+    },
+    {
+      "date": "2026-10-27",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "NEAR",
+        "RAN"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "NEAR",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2026-10-28",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "PANEL",
+        "PLAN",
+        "PAN"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "PANEL",
+        "four": "PLAN",
+        "three": "PAN"
+      }
+    },
+    {
+      "date": "2026-10-29",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "PLANE",
+        "PLAN",
+        "PAN"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "PLANE",
+        "four": "PLAN",
+        "three": "PAN"
+      }
+    },
+    {
+      "date": "2026-10-30",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "STEAL",
+        "TALE",
+        "ALE"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "STEAL",
+        "four": "TALE",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-10-31",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "NEAR",
+        "ERA"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "NEAR",
+        "three": "ERA"
+      }
+    },
+    {
+      "date": "2026-11-01",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "RATES",
+        "RATE",
+        "EAT"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "RATES",
+        "four": "RATE",
+        "three": "EAT"
+      }
+    },
+    {
+      "date": "2026-11-02",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "LEANT",
+        "LATE",
+        "ATE"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "LEANT",
+        "four": "LATE",
+        "three": "ATE"
+      }
+    },
+    {
+      "date": "2026-11-03",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "RAN"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2026-11-04",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "ANGEL",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "ANGEL",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-11-05",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "STARE",
+        "STAR",
+        "RAT"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "STARE",
+        "four": "STAR",
+        "three": "RAT"
+      }
+    },
+    {
+      "date": "2026-11-06",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "ANGEL",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "ANGEL",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-11-07",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "PANEL",
+        "PLAN",
+        "PAN"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "PANEL",
+        "four": "PLAN",
+        "three": "PAN"
+      }
+    },
+    {
+      "date": "2026-11-08",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "LATER",
+        "TALE",
+        "ALE"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "LATER",
+        "four": "TALE",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-11-09",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "RAN"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2026-11-10",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "STARE",
+        "STAR",
+        "TAR"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "STARE",
+        "four": "STAR",
+        "three": "TAR"
+      }
+    },
+    {
+      "date": "2026-11-11",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "ANGLE",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "ANGLE",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-11-12",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "AIR"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "AIR"
+      }
+    },
+    {
+      "date": "2026-11-13",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "GATE",
+        "ATE"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "GATE",
+        "three": "ATE"
+      }
+    },
+    {
+      "date": "2026-11-14",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "RATES",
+        "TEAR",
+        "RAT"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "RATES",
+        "four": "TEAR",
+        "three": "RAT"
+      }
+    },
+    {
+      "date": "2026-11-15",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "TEAR",
+        "ART"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "TEAR",
+        "three": "ART"
+      }
+    },
+    {
+      "date": "2026-11-16",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "RAN"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2026-11-17",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "ANGLE",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "ANGLE",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-11-18",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "RAN"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2026-11-19",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "ANGLE",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "ANGLE",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-11-20",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "RATES",
+        "STAR",
+        "SAT"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "RATES",
+        "four": "STAR",
+        "three": "SAT"
+      }
+    },
+    {
+      "date": "2026-11-21",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "ANGEL",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "ANGEL",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-11-22",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "LEANT",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "LEANT",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-11-23",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "EARN",
+        "ERA"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "EARN",
+        "three": "ERA"
+      }
+    },
+    {
+      "date": "2026-11-24",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "STARE",
+        "RATE",
+        "ATE"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "STARE",
+        "four": "RATE",
+        "three": "ATE"
+      }
+    },
+    {
+      "date": "2026-11-25",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "PANEL",
+        "PLAN",
+        "PAN"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "PANEL",
+        "four": "PLAN",
+        "three": "PAN"
+      }
+    },
+    {
+      "date": "2026-11-26",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "RAN"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2026-11-27",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "RATES",
+        "RATE",
+        "ERA"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "RATES",
+        "four": "RATE",
+        "three": "ERA"
+      }
+    },
+    {
+      "date": "2026-11-28",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "NEAR",
+        "EAR"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "NEAR",
+        "three": "EAR"
+      }
+    },
+    {
+      "date": "2026-11-29",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "ANGEL",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "ANGEL",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2026-11-30",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "EARN",
+        "EAR"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "EARN",
+        "three": "EAR"
+      }
+    },
+    {
+      "date": "2026-12-01",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "EARN",
+        "RAN"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "EARN",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2026-12-02",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "STARE",
+        "STAR",
+        "TAR"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "STARE",
+        "four": "STAR",
+        "three": "TAR"
+      }
+    },
+    {
+      "date": "2026-12-03",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "GATE",
+        "TEA"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "GATE",
+        "three": "TEA"
+      }
+    },
+    {
+      "date": "2026-12-04",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "GATE",
+        "EAT"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "GATE",
+        "three": "EAT"
+      }
+    },
+    {
+      "date": "2026-12-05",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "RATES",
+        "STAR",
+        "TAR"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "RATES",
+        "four": "STAR",
+        "three": "TAR"
+      }
+    },
+    {
+      "date": "2026-12-06",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "RATE",
+        "TAR"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "RATE",
+        "three": "TAR"
+      }
+    },
+    {
+      "date": "2026-12-07",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "RATES",
+        "TEAR",
+        "RAT"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "RATES",
+        "four": "TEAR",
+        "three": "RAT"
+      }
+    },
+    {
+      "date": "2026-12-08",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "AIR"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "AIR"
+      }
+    },
+    {
+      "date": "2026-12-09",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "AIR"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "AIR"
+      }
+    },
+    {
+      "date": "2026-12-10",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "EARN",
+        "ARE"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "EARN",
+        "three": "ARE"
+      }
+    },
+    {
+      "date": "2026-12-11",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "NEAR",
+        "RAN"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "NEAR",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2026-12-12",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "STARE",
+        "TEAR",
+        "TAR"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "STARE",
+        "four": "TEAR",
+        "three": "TAR"
+      }
+    },
+    {
+      "date": "2026-12-13",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "LEANT",
+        "TALE",
+        "EAT"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "LEANT",
+        "four": "TALE",
+        "three": "EAT"
+      }
+    },
+    {
+      "date": "2026-12-14",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "NEAR",
+        "RAN"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "NEAR",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2026-12-15",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "STARE",
+        "RATE",
+        "TAR"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "STARE",
+        "four": "RATE",
+        "three": "TAR"
+      }
+    },
+    {
+      "date": "2026-12-16",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "STARE",
+        "RATE",
+        "ATE"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "STARE",
+        "four": "RATE",
+        "three": "ATE"
+      }
+    },
+    {
+      "date": "2026-12-17",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "NEAR",
+        "ARE"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "NEAR",
+        "three": "ARE"
+      }
+    },
+    {
+      "date": "2026-12-18",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "TEAR",
+        "ART"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "TEAR",
+        "three": "ART"
+      }
+    },
+    {
+      "date": "2026-12-19",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "GATE",
+        "ATE"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "GATE",
+        "three": "ATE"
+      }
+    },
+    {
+      "date": "2026-12-20",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "STARE",
+        "STAR",
+        "SAT"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "STARE",
+        "four": "STAR",
+        "three": "SAT"
+      }
+    },
+    {
+      "date": "2026-12-21",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "RATES",
+        "RATE",
+        "ERA"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "RATES",
+        "four": "RATE",
+        "three": "ERA"
+      }
+    },
+    {
+      "date": "2026-12-22",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "EARN",
+        "ARE"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "EARN",
+        "three": "ARE"
+      }
+    },
+    {
+      "date": "2026-12-23",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "STALE",
+        "SEAL",
+        "SEA"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "STALE",
+        "four": "SEAL",
+        "three": "SEA"
+      }
+    },
+    {
+      "date": "2026-12-24",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "GATE",
+        "ATE"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "GATE",
+        "three": "ATE"
+      }
+    },
+    {
+      "date": "2026-12-25",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "PLANE",
+        "PLAN",
+        "PAN"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "PLANE",
+        "four": "PLAN",
+        "three": "PAN"
+      }
+    },
+    {
+      "date": "2026-12-26",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "PLANE",
+        "PANE",
+        "PEN"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "PLANE",
+        "four": "PANE",
+        "three": "PEN"
+      }
+    },
+    {
+      "date": "2026-12-27",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "RATES",
+        "RATE",
+        "ART"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "RATES",
+        "four": "RATE",
+        "three": "ART"
+      }
+    },
+    {
+      "date": "2026-12-28",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "LEANT",
+        "TALE",
+        "ATE"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "LEANT",
+        "four": "TALE",
+        "three": "ATE"
+      }
+    },
+    {
+      "date": "2026-12-29",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "PANEL",
+        "PLAN",
+        "PAN"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "PANEL",
+        "four": "PLAN",
+        "three": "PAN"
+      }
+    },
+    {
+      "date": "2026-12-30",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "EARN",
+        "RAN"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "EARN",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2026-12-31",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "STALE",
+        "TALE",
+        "EAT"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "STALE",
+        "four": "TALE",
+        "three": "EAT"
+      }
+    },
+    {
+      "date": "2027-01-01",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "TEAR",
+        "RAT"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "TEAR",
+        "three": "RAT"
+      }
+    },
+    {
+      "date": "2027-01-02",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "EARN",
+        "RAN"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "EARN",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2027-01-03",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "NEAR",
+        "EAR"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "NEAR",
+        "three": "EAR"
+      }
+    },
+    {
+      "date": "2027-01-04",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "PANEL",
+        "PLAN",
+        "PAN"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "PANEL",
+        "four": "PLAN",
+        "three": "PAN"
+      }
+    },
+    {
+      "date": "2027-01-05",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "EARN",
+        "EAR"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "EARN",
+        "three": "EAR"
+      }
+    },
+    {
+      "date": "2027-01-06",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "NEAR",
+        "ERA"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "NEAR",
+        "three": "ERA"
+      }
+    },
+    {
+      "date": "2027-01-07",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "TEAR",
+        "ARE"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "TEAR",
+        "three": "ARE"
+      }
+    },
+    {
+      "date": "2027-01-08",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "ALERT",
+        "TEAR",
+        "ARE"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "ALERT",
+        "four": "TEAR",
+        "three": "ARE"
+      }
+    },
+    {
+      "date": "2027-01-09",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "STEAL",
+        "SEAL",
+        "SEA"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "STEAL",
+        "four": "SEAL",
+        "three": "SEA"
+      }
+    },
+    {
+      "date": "2027-01-10",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "AIR"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "AIR"
+      }
+    },
+    {
+      "date": "2027-01-11",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "ALERT",
+        "RATE",
+        "EAR"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "ALERT",
+        "four": "RATE",
+        "three": "EAR"
+      }
+    },
+    {
+      "date": "2027-01-12",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "GATE",
+        "ATE"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "GATE",
+        "three": "ATE"
+      }
+    },
+    {
+      "date": "2027-01-13",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "LEANT",
+        "LATE",
+        "EAT"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "LEANT",
+        "four": "LATE",
+        "three": "EAT"
+      }
+    },
+    {
+      "date": "2027-01-14",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "RATES",
+        "STAR",
+        "TAR"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "RATES",
+        "four": "STAR",
+        "three": "TAR"
+      }
+    },
+    {
+      "date": "2027-01-15",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "ANGEL",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "ANGEL",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2027-01-16",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "AIR"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "AIR"
+      }
+    },
+    {
+      "date": "2027-01-17",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "RAN"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2027-01-18",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "EARN",
+        "ARE"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "EARN",
+        "three": "ARE"
+      }
+    },
+    {
+      "date": "2027-01-19",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "LEANT",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "LEANT",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2027-01-20",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "EARN",
+        "ERA"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "EARN",
+        "three": "ERA"
+      }
+    },
+    {
+      "date": "2027-01-21",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "NEAR",
+        "EAR"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "NEAR",
+        "three": "EAR"
+      }
+    },
+    {
+      "date": "2027-01-22",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "RATE",
+        "ERA"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "RATE",
+        "three": "ERA"
+      }
+    },
+    {
+      "date": "2027-01-23",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "AIR"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "AIR"
+      }
+    },
+    {
+      "date": "2027-01-24",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "RAN"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2027-01-25",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "RATES",
+        "TEAR",
+        "ARE"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "RATES",
+        "four": "TEAR",
+        "three": "ARE"
+      }
+    },
+    {
+      "date": "2027-01-26",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "AIR"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "AIR"
+      }
+    },
+    {
+      "date": "2027-01-27",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "EARN",
+        "ARE"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "EARN",
+        "three": "ARE"
+      }
+    },
+    {
+      "date": "2027-01-28",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "LEANT",
+        "ANTE",
+        "TEA"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "LEANT",
+        "four": "ANTE",
+        "three": "TEA"
+      }
+    },
+    {
+      "date": "2027-01-29",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "STARE",
+        "STAR",
+        "ART"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "STARE",
+        "four": "STAR",
+        "three": "ART"
+      }
+    },
+    {
+      "date": "2027-01-30",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "EARN",
+        "EAR"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "EARN",
+        "three": "EAR"
+      }
+    },
+    {
+      "date": "2027-01-31",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "STARE",
+        "TEAR",
+        "TEA"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "STARE",
+        "four": "TEAR",
+        "three": "TEA"
+      }
+    },
+    {
+      "date": "2027-02-01",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "STALE",
+        "LATE",
+        "EAT"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "STALE",
+        "four": "LATE",
+        "three": "EAT"
+      }
+    },
+    {
+      "date": "2027-02-02",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "NEAR",
+        "ARE"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "NEAR",
+        "three": "ARE"
+      }
+    },
+    {
+      "date": "2027-02-03",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "NEAR",
+        "EAR"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "NEAR",
+        "three": "EAR"
+      }
+    },
+    {
+      "date": "2027-02-04",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "EARN",
+        "ERA"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "EARN",
+        "three": "ERA"
+      }
+    },
+    {
+      "date": "2027-02-05",
+      "startWord": "SALTIER",
+      "words": [
+        "SALTIER",
+        "SALTER",
+        "LATER",
+        "TALE",
+        "ALE"
+      ],
+      "solution": {
+        "six": "SALTER",
+        "five": "LATER",
+        "four": "TALE",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2027-02-06",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "EARN",
+        "EAR"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "EARN",
+        "three": "EAR"
+      }
+    },
+    {
+      "date": "2027-02-07",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "ANGEL",
+        "LEAN",
+        "ALE"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "ANGEL",
+        "four": "LEAN",
+        "three": "ALE"
+      }
+    },
+    {
+      "date": "2027-02-08",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "RATES",
+        "STAR",
+        "RAT"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "RATES",
+        "four": "STAR",
+        "three": "RAT"
+      }
+    },
+    {
+      "date": "2027-02-09",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "NEAR",
+        "RAN"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "NEAR",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2027-02-10",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "RATES",
+        "RATE",
+        "TEA"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "RATES",
+        "four": "RATE",
+        "three": "TEA"
+      }
+    },
+    {
+      "date": "2027-02-11",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "AIR"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "AIR"
+      }
+    },
+    {
+      "date": "2027-02-12",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "RAN"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2027-02-13",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "AIR"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "AIR"
+      }
+    },
+    {
+      "date": "2027-02-14",
+      "startWord": "TANGLED",
+      "words": [
+        "TANGLED",
+        "TANGLE",
+        "LEANT",
+        "TALE",
+        "TEA"
+      ],
+      "solution": {
+        "six": "TANGLE",
+        "five": "LEANT",
+        "four": "TALE",
+        "three": "TEA"
+      }
+    },
+    {
+      "date": "2027-02-15",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "LEANT",
+        "LATE",
+        "LET"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "LEANT",
+        "four": "LATE",
+        "three": "LET"
+      }
+    },
+    {
+      "date": "2027-02-16",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "RATE",
+        "ATE"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "RATE",
+        "three": "ATE"
+      }
+    },
+    {
+      "date": "2027-02-17",
+      "startWord": "PLANETS",
+      "words": [
+        "PLANETS",
+        "PLANET",
+        "PLANE",
+        "PLAN",
+        "PAN"
+      ],
+      "solution": {
+        "six": "PLANET",
+        "five": "PLANE",
+        "four": "PLAN",
+        "three": "PAN"
+      }
+    },
+    {
+      "date": "2027-02-18",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "STARE",
+        "TEAR",
+        "EAT"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "STARE",
+        "four": "TEAR",
+        "three": "EAT"
+      }
+    },
+    {
+      "date": "2027-02-19",
+      "startWord": "TRIAGES",
+      "words": [
+        "TRIAGES",
+        "TRIAGE",
+        "GRATE",
+        "TEAR",
+        "TEA"
+      ],
+      "solution": {
+        "six": "TRIAGE",
+        "five": "GRATE",
+        "four": "TEAR",
+        "three": "TEA"
+      }
+    },
+    {
+      "date": "2027-02-20",
+      "startWord": "GARDENS",
+      "words": [
+        "GARDENS",
+        "GARDEN",
+        "ANGER",
+        "EARN",
+        "ERA"
+      ],
+      "solution": {
+        "six": "GARDEN",
+        "five": "ANGER",
+        "four": "EARN",
+        "three": "ERA"
+      }
+    },
+    {
+      "date": "2027-02-21",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "RAN"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "RAN"
+      }
+    },
+    {
+      "date": "2027-02-22",
+      "startWord": "STREAMS",
+      "words": [
+        "STREAMS",
+        "STREAM",
+        "RATES",
+        "RATE",
+        "EAT"
+      ],
+      "solution": {
+        "six": "STREAM",
+        "five": "RATES",
+        "four": "RATE",
+        "three": "EAT"
+      }
+    },
+    {
+      "date": "2027-02-23",
+      "startWord": "RETAINS",
+      "words": [
+        "RETAINS",
+        "RETAIN",
+        "TRAIN",
+        "RAIN",
+        "RAN"
+      ],
+      "solution": {
+        "six": "RETAIN",
+        "five": "TRAIN",
+        "four": "RAIN",
+        "three": "RAN"
+      }
+    }
+  ]
+}
