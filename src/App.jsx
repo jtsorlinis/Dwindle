@@ -641,6 +641,20 @@ function App() {
                   {`Build a ${expectedLength}-letter word from ${priorWord}.`}
                 </p>
               )}
+
+              {puzzle && !isRoundFinished && (
+                <div
+                  className="retry-dots retry-dots-inline"
+                  aria-label={`Retries used on this row: ${activeRowAttempts.length} of ${MAX_RETRIES}`}
+                >
+                  {Array.from({ length: MAX_RETRIES }).map((_, index) => (
+                    <span
+                      key={`retry-dot-${index}`}
+                      className={`retry-dot ${index < activeRowAttempts.length ? 'used' : ''}`}
+                    />
+                  ))}
+                </div>
+              )}
             </div>
           </div>
         )}
@@ -657,17 +671,6 @@ function App() {
               ? 'No puzzles available in src/puzzles.json. Run npm run generate:puzzles.'
               : `No puzzle exists for ${currentDate}. Run npm run generate:puzzles to create more days.`}
           </p>
-        )}
-
-        {puzzle && !isRoundFinished && (
-          <div className="retry-dots" aria-label={`Retries used on this row: ${activeRowAttempts.length} of ${MAX_RETRIES}`}>
-            {Array.from({ length: MAX_RETRIES }).map((_, index) => (
-              <span
-                key={`retry-dot-${index}`}
-                className={`retry-dot ${index < activeRowAttempts.length ? 'used' : ''}`}
-              />
-            ))}
-          </div>
         )}
 
         {RANDOM_PUZZLE_MODE && isRoundFinished && (

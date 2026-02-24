@@ -237,6 +237,10 @@
   gap: 8px;
 }
 
+.retry-dots-inline {
+  margin-top: 8px;
+}
+
 .retry-dot {
   width: 10px;
   height: 10px;
