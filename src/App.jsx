@@ -691,11 +691,10 @@ function App() {
                   <button
                     type="button"
                     className="key key-wide"
-                    onClick={() => handleGameKey('BACKSPACE')}
+                    onClick={() => handleGameKey('ENTER')}
                     disabled={isInputLocked}
-                    aria-label="Delete last letter"
                   >
-                    Del
+                    Enter
                   </button>
                 )}
                 {[...row].map((letter) => (
@@ -713,10 +712,11 @@ function App() {
                   <button
                     type="button"
                     className="key key-wide"
-                    onClick={() => handleGameKey('ENTER')}
+                    onClick={() => handleGameKey('BACKSPACE')}
                     disabled={isInputLocked}
+                    aria-label="Delete last letter"
                   >
-                    Enter
+                    Del
                   </button>
                 )}
               </div>
