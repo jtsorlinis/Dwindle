@@ -383,19 +383,32 @@ function App() {
   const isInputLocked = !puzzle || isComplete || isLockedOut;
   const isRoundFinished = isComplete || isLockedOut;
   const isScoreModalOpen = showScoreModal && isRoundFinished;
+  const didWin = isComplete && !isLockedOut;
   const solvedMessage = RANDOM_PUZZLE_MODE
     ? 'Puzzle solved.'
     : "You solved today's Dwindle. Come back tomorrow for a new puzzle.";
   const lockoutMessage = RANDOM_PUZZLE_MODE
     ? `Final score: ${finalScoreLength}-letter word.`
     : `Locked until tomorrow. Final score: ${finalScoreLength}-letter word.`;
+  const modalTitle = didWin ? 'You Won' : 'You Failed';
+  const modalOutcomeText = didWin
+    ? 'You completed every row.'
+    : RANDOM_PUZZLE_MODE
+      ? 'No retries left for this puzzle.'
+      : 'No retries left. Locked until tomorrow.';
 
   useEffect(() => {
     if (!isHydrated || !puzzle || !isRoundFinished) {
       return;
     }
 
-    setShowScoreModal(true);
+    const timeoutId = window.setTimeout(() => {
+      setShowScoreModal(true);
+    }, 200);
+
+    return () => {
+      window.clearTimeout(timeoutId);
+    };
   }, [isHydrated, puzzle, isRoundFinished]);
 
   const startNextRandomPuzzle = useCallback(() => {
@@ -675,10 +688,11 @@ function App() {
                   <button
                     type="button"
                     className="key key-wide"
-                    onClick={() => handleGameKey('ENTER')}
+                    onClick={() => handleGameKey('BACKSPACE')}
                     disabled={isInputLocked}
+                    aria-label="Delete last letter"
                   >
-                    Enter
+                    Del
                   </button>
                 )}
                 {[...row].map((letter) => (
@@ -696,11 +710,10 @@ function App() {
                   <button
                     type="button"
                     className="key key-wide"
-                    onClick={() => handleGameKey('BACKSPACE')}
+                    onClick={() => handleGameKey('ENTER')}
                     disabled={isInputLocked}
-                    aria-label="Delete last letter"
                   >
-                    Del
+                    Enter
                   </button>
                 )}
               </div>
@@ -711,15 +724,16 @@ function App() {
 
       {isScoreModalOpen && puzzle && (
         <div className="modal-backdrop" role="presentation">
-          <div className="score-modal" role="dialog" aria-modal="true" aria-label="Final score">
-            <h2>Round Complete</h2>
+          <div
+            className={`score-modal ${didWin ? 'score-modal-win' : 'score-modal-fail'}`}
+            role="dialog"
+            aria-modal="true"
+            aria-label="Final score"
+          >
+            <h2>{modalTitle}</h2>
+            <p className="modal-outcome-line">{modalOutcomeText}</p>
             <p className="score-line">Final score: {finalScoreLength}-letter word</p>
             <div className="modal-actions">
-              {RANDOM_PUZZLE_MODE && (
-                <button type="button" className="next-puzzle-button" onClick={startNextRandomPuzzle}>
-                  New Puzzle
-                </button>
-              )}
               <button type="button" className="modal-close-button" onClick={() => setShowScoreModal(false)}>
                 Close
               </button>
