@@ -342,7 +342,7 @@
   width: 100%;
   display: grid;
   grid-template-columns: repeat(var(--cols), minmax(0, 1fr));
-  gap: 4px;
+  gap: 2px;
 }
 
 .keyboard-row-bottom {
@@ -352,14 +352,14 @@
 .key {
   border: 1px solid #c9c0b2;
   border-radius: 8px;
-  min-height: 40px;
+  min-height: 48px;
   min-width: 0;
   width: 100%;
   padding: 0;
   background: #f4eee3;
   color: #1b3b44;
   font: inherit;
-  font-size: clamp(0.72rem, 2.9vw, 0.86rem);
+  font-size: clamp(0.84rem, 3.5vw, 1rem);
   font-weight: 700;
   text-transform: uppercase;
   cursor: pointer;
@@ -375,7 +375,7 @@
 }
 
 .key.key-wide {
-  font-size: clamp(0.66rem, 2.6vw, 0.76rem);
+  font-size: clamp(0.78rem, 3.2vw, 0.9rem);
 }
 
 .toast-stack {
