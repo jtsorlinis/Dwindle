@@ -7,6 +7,7 @@ const HOW_TO_MODAL_STORAGE_KEY = 'dwindle-howto-dismissed';
 const TARGET_LENGTHS = [6, 5, 4, 3];
 const KEYBOARD_ROWS = ['QWERTYUIOP', 'ASDFGHJKL', 'ZXCVBNM'];
 const MAX_RETRIES = 2;
+const STEP_ADVANCE_MS = 420;
 const HOW_TO_EXAMPLES = [
   {
     rows: [
@@ -318,6 +319,7 @@ function App() {
   const [showScoreModal, setShowScoreModal] = useState(false);
   const [inputValue, setInputValue] = useState('');
   const [toasts, setToasts] = useState([]);
+  const [pendingAdvance, setPendingAdvance] = useState(null);
   const [isHowToModalOpen, setIsHowToModalOpen] = useState(() => {
     try {
       return localStorage.getItem(HOW_TO_MODAL_STORAGE_KEY) !== '1';
@@ -357,6 +359,7 @@ function App() {
     setAttemptsByStep(loaded.attemptsByStep);
     setIsLockedOut(loaded.lockedOut);
     setInputValue('');
+    setPendingAdvance(null);
     setShowScoreModal(false);
     setIsHydrated(true);
   }, [activePuzzleDate, puzzle, roundSeed]);
@@ -415,12 +418,13 @@ function App() {
   }, [currentDate]);
 
   const currentStep = guesses.length;
+  const isAdvancing = Boolean(pendingAdvance);
   const isComplete = puzzle ? currentStep >= TARGET_LENGTHS.length : false;
   const expectedLength = !puzzle || isComplete ? 0 : TARGET_LENGTHS[currentStep];
   const priorWord = currentStep === 0 ? startWord : guesses[currentStep - 1];
   const targetWord = !puzzle || isComplete ? '' : targetWords[currentStep];
   const finalScoreLength = guesses.length ? guesses[guesses.length - 1].length : 7;
-  const isInputLocked = !puzzle || isComplete || isLockedOut || isHowToModalOpen;
+  const isInputLocked = !puzzle || isComplete || isLockedOut || isHowToModalOpen || isAdvancing;
   const isRoundFinished = isComplete || isLockedOut;
   const isScoreModalOpen = showScoreModal && isRoundFinished && !isHowToModalOpen;
   const didWin = isComplete && !isLockedOut;
@@ -441,6 +445,21 @@ function App() {
   const previousGuess = previousStepIndex >= 0 ? guesses[previousStepIndex] ?? '' : '';
   const activeLength = TARGET_LENGTHS[currentStep] ?? 0;
   const activeRowAttempts = attemptsByStep[currentStep] ?? [];
+
+  useEffect(() => {
+    if (!pendingAdvance) {
+      return;
+    }
+
+    const timeoutId = window.setTimeout(() => {
+      setGuesses((previous) => [...previous, pendingAdvance.guess]);
+      setPendingAdvance(null);
+    }, STEP_ADVANCE_MS);
+
+    return () => {
+      window.clearTimeout(timeoutId);
+    };
+  }, [pendingAdvance]);
 
   useEffect(() => {
     if (!isHydrated || !puzzle || !isRoundFinished) {
@@ -500,7 +519,11 @@ function App() {
     }
 
     if (guess === targetWord) {
-      setGuesses((previous) => [...previous, guess]);
+      if (currentStep === 0) {
+        setGuesses((previous) => [...previous, guess]);
+      } else {
+        setPendingAdvance({ stepIndex: currentStep, guess });
+      }
       setInputValue('');
       return;
     }
@@ -653,61 +676,90 @@ function App() {
         ) : (
           <div className="board" aria-label="Current puzzle board">
             <div className="step-group">
-              {previousGuess && (
-                <div className="slot-row filled" style={{ '--delay': '0ms' }}>
-                  <span className="row-label">{previousLength}</span>
+              {TARGET_LENGTHS.map((length, stepIndex) => {
+                if (stepIndex > currentStep) return null;
+
+                const attempts = attemptsByStep[stepIndex] || [];
+                const isCurrentStep = stepIndex === currentStep;
+                const advancingGuess =
+                  pendingAdvance && pendingAdvance.stepIndex === stepIndex
+                    ? pendingAdvance.guess
+                    : '';
+                const guess = guesses[stepIndex] ?? advancingGuess;
+                const isCollapsingTopRow = isAdvancing && stepIndex === currentStep - 1;
+                const rowStateClass = stepIndex < currentStep - 1
+                  ? 'collapsed'
+                  : isCollapsingTopRow
+                    ? 'collapsing'
+                    : '';
+
+                return [
+                  ...attempts.map((attempt, attemptIndex) => {
+                    const isCollapsed = !isCurrentStep && stepIndex < currentStep;
+                    return (
+                      <div
+                        key={`${length}-retry-${attemptIndex}`}
+                        className={`slot-row feedback-row ${isCollapsed ? 'collapsed' : ''}`}
+                        style={{ '--delay': isCollapsed ? '0ms' : `${(previousGuess ? 1 : 0) * 50 + attemptIndex * 50}ms` }}
+                      >
+                        <span className="row-label retry-label">R</span>
+                        <div className="slots">
+                          {Array.from({ length }).map((_, slotIndex) => (
+                            <span
+                              key={`${length}-retry-${attemptIndex}-${slotIndex}`}
+                              className={`slot typed feedback-${attempt.feedback[slotIndex]}`}
+                            >
+                              {attempt.guess[slotIndex] ?? ''}
+                            </span>
+                          ))}
+                        </div>
+                      </div>
+                    );
+                  }),
+
+                  (!isCurrentStep || (isAdvancing && stepIndex === currentStep)) && guess ? (
+                    <div
+                      key={`${length}-guess`}
+                      className={`slot-row filled ${rowStateClass}`}
+                      style={{ '--delay': '0ms' }}
+                    >
+                      <span className="row-label">{length}</span>
+                      <div className="slots">
+                        {Array.from({ length }).map((_, slotIndex) => (
+                          <span key={`${length}-prev-slot-${slotIndex}`} className="slot typed">
+                            {guess[slotIndex] ?? ''}
+                          </span>
+                        ))}
+                      </div>
+                    </div>
+                  ) : null
+                ];
+              })}
+
+              {!isAdvancing && (
+                <div
+                  className="slot-row active"
+                  style={{
+                    '--delay': `${(previousGuess ? 1 : 0) * 50 + activeRowAttempts.length * 50}ms`,
+                  }}
+                >
+                  <span className="row-label">{activeLength}</span>
                   <div className="slots">
-                    {Array.from({ length: previousLength }).map((_, slotIndex) => (
-                      <span key={`${previousLength}-prev-slot-${slotIndex}`} className="slot typed">
-                        {previousGuess[slotIndex] ?? ''}
+                    {Array.from({ length: activeLength }).map((_, slotIndex) => (
+                      <span
+                        key={`${activeLength}-slot-${slotIndex}`}
+                        className={`slot ${inputValue[slotIndex] ? 'typed' : ''} ${
+                          slotIndex === inputValue.length && inputValue.length < activeLength
+                            ? 'next-slot'
+                            : ''
+                        }`}
+                      >
+                        {inputValue[slotIndex] ?? ''}
                       </span>
                     ))}
                   </div>
                 </div>
               )}
-
-              {activeRowAttempts.map((attempt, attemptIndex) => (
-                <div
-                  key={`${activeLength}-retry-${attemptIndex}`}
-                  className="slot-row feedback-row"
-                  style={{ '--delay': `${(previousGuess ? 1 : 0) * 50 + attemptIndex * 50}ms` }}
-                >
-                  <span className="row-label retry-label">R</span>
-                  <div className="slots">
-                    {Array.from({ length: activeLength }).map((_, slotIndex) => (
-                      <span
-                        key={`${activeLength}-retry-${attemptIndex}-${slotIndex}`}
-                        className={`slot typed feedback-${attempt.feedback[slotIndex]}`}
-                      >
-                        {attempt.guess[slotIndex] ?? ''}
-                      </span>
-                    ))}
-                  </div>
-                </div>
-              ))}
-
-              <div
-                className="slot-row active"
-                style={{
-                  '--delay': `${(previousGuess ? 1 : 0) * 50 + activeRowAttempts.length * 50}ms`,
-                }}
-              >
-                <span className="row-label">{activeLength}</span>
-                <div className="slots">
-                  {Array.from({ length: activeLength }).map((_, slotIndex) => (
-                    <span
-                      key={`${activeLength}-slot-${slotIndex}`}
-                      className={`slot ${inputValue[slotIndex] ? 'typed' : ''} ${
-                        slotIndex === inputValue.length && inputValue.length < activeLength
-                          ? 'next-slot'
-                          : ''
-                      }`}
-                    >
-                      {inputValue[slotIndex] ?? ''}
-                    </span>
-                  ))}
-                </div>
-              </div>
 
               {puzzle && (
                 <p className="instruction instruction-inline">
