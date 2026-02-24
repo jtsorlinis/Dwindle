@@ -365,6 +365,11 @@
   cursor: pointer;
 }
 
+.key.key-highlighted {
+  border-color: #1f8f7b;
+  background: #dff5ed;
+}
+
 .key:hover:not(:disabled) {
   filter: brightness(0.98);
 }

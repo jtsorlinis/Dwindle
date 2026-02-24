@@ -2,8 +2,20 @@ import { useCallback, useEffect, useMemo, useState } from 'react';
 import puzzleBook from './puzzles.json';
 import './App.css';
 
-const STORAGE_KEY = 'dwindle-state';
-const TARGET_LENGTHS = [6, 5, 4, 3];
+const STORAGE_KEY = 'dwindle-state-v2';
+const TARGET_LENGTHS = [3, 4, 5, 6];
+const SOLUTION_FIELD_BY_LENGTH = {
+  3: 'three',
+  4: 'four',
+  5: 'five',
+  6: 'six',
+};
+const WORD_INDEX_BY_LENGTH = {
+  3: 4,
+  4: 3,
+  5: 2,
+  6: 1,
+};
 const KEYBOARD_ROWS = ['QWERTYUIOP', 'ASDFGHJKL', 'ZXCVBNM'];
 const MAX_RETRIES = 2;
 const RANDOM_PUZZLE_MODE =
@@ -49,17 +61,14 @@ function normalizePuzzle(entry) {
 
   let targetWords = [];
   if (entry.solution && typeof entry.solution === 'object') {
-    targetWords = [
-      normalizeWord(entry.solution.six, 6),
-      normalizeWord(entry.solution.five, 5),
-      normalizeWord(entry.solution.four, 4),
-      normalizeWord(entry.solution.three, 3),
-    ];
+    targetWords = TARGET_LENGTHS.map((length) =>
+      normalizeWord(entry.solution[SOLUTION_FIELD_BY_LENGTH[length]], length),
+    );
   }
 
   if (targetWords.some((word) => !word) && Array.isArray(entry.words)) {
     targetWords = TARGET_LENGTHS.map((length, index) =>
-      normalizeWord(entry.words[index + 1], length),
+      normalizeWord(entry.words[WORD_INDEX_BY_LENGTH[length] ?? index + 1], length),
     );
   }
 
@@ -280,6 +289,7 @@ function App() {
   const puzzle = useMemo(() => DAILY_PUZZLES.get(activePuzzleDate) ?? null, [activePuzzleDate]);
   const startWord = puzzle?.startWord ?? '';
   const targetWords = puzzle?.targetWords ?? [];
+  const highlightedLetters = useMemo(() => new Set(startWord.split('')), [startWord]);
   const [guesses, setGuesses] = useState([]);
   const [attemptsByStep, setAttemptsByStep] = useState(createEmptyAttemptsByStep());
   const [isLockedOut, setIsLockedOut] = useState(false);
@@ -368,7 +378,7 @@ function App() {
   const expectedLength = !puzzle || isComplete ? 0 : TARGET_LENGTHS[currentStep];
   const priorWord = currentStep === 0 ? startWord : guesses[currentStep - 1];
   const targetWord = !puzzle || isComplete ? '' : targetWords[currentStep];
-  const finalScoreLength = guesses.length ? guesses[guesses.length - 1].length : 7;
+  const finalScoreLength = guesses.length ? guesses[guesses.length - 1].length : (TARGET_LENGTHS[0] ?? 0);
   const isInputLocked = !puzzle || isComplete || isLockedOut;
   const isRoundFinished = isComplete || isLockedOut;
   const isScoreModalOpen = showScoreModal && isRoundFinished;
@@ -701,7 +711,7 @@ function App() {
                   <button
                     key={letter}
                     type="button"
-                    className="key"
+                    className={`key ${highlightedLetters.has(letter) ? 'key-highlighted' : ''}`.trim()}
                     onClick={() => handleGameKey(letter)}
                     disabled={isInputLocked}
                   >
